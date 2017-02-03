@@ -1,4 +1,5 @@
 # Libraries
+<sub>*TODO: Implement a simple description about the libs instead of only URL*</sub>
 
 React Native Facebook Login: https://github.com/magus/react-native-facebook-login
 
