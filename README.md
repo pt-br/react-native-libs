@@ -6,7 +6,7 @@
 
 * [Repository](https://github.com/magus/react-native-facebook-login)
 
-___
+======
 
 ### React Native Animatable
 
