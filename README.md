@@ -74,7 +74,7 @@
 
 ### React Native DatePicker
 
->*React native `<DatePicker>` component for both Android and IOS.*
+>*React native `<DatePicker>` component for both Android and iOS.*
 
 * [Repository](https://github.com/xgfe/react-native-datepicker)
 
