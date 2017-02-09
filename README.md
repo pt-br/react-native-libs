@@ -8,6 +8,14 @@
 
 ======
 
+### Lottie
+
+>*Lottie is a mobile library for Android and iOS that parses Adobe After Effects animations exported as JSON with bodymovin and renders them natively on mobile!*
+
+* [Repository](https://github.com/airbnb/lottie-react-native)
+
+======
+
 ### React Native Animatable
 
 >*Easy to use declarative transitions and a standard set of animations for React Native.*
